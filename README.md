@@ -5,3 +5,6 @@
 
 * Network Logging <br>
 ![null](https://cdn.discordapp.com/attachments/1073241823050465320/1073979588239179856/Code_4cOfyAlhXJ.png "Skull")
+
+* Discord tokens Logging <br>
+![null](https://cdn.discordapp.com/attachments/1073241823050465320/1073979896826707968/image.png "Skull")
