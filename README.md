@@ -1,7 +1,5 @@
 # Octel Main Libraries
 ## This is not a fully dumped version because i'm too lazy to make one?
-* This is the fastest shit I've ever dumped bro <br><br>
-
 * Unpack Duration <br>
 ![null](https://cdn.discordapp.com/attachments/1073241823050465320/1073975718150684702/image.png "Skull").
 
