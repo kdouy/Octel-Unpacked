@@ -1,18 +1,16 @@
-# Octel (Not Mine)
+## Octel Deobfuscated
+> An obfuscated version of a ratted external for **Roblox** Da hood cheat. which is all rats.
 
-`This external got cracked by me due to the owner said it was false rat/virus.` <br>
-`Language: Python`
+## What is going on?
+> This was just a fun deobfuscation. (The owner said it was false so i gave it a try)
 
-`List of logger that this external rat.` <br>
+## Logger Found
 
-`Unpack Duration:` <br>
-![null](https://cdn.discordapp.com/attachments/1073241823050465320/1073975718150684702/image.png "Skull")
-
-`Network Logging:` <br>
+> Network Logging
 ![null](https://cdn.discordapp.com/attachments/1073241823050465320/1073979588239179856/Code_4cOfyAlhXJ.png "Skull")
 
-`Discord tokens Logging:` <br>
+> Discord token Logging
 ![null](https://cdn.discordapp.com/attachments/1073241823050465320/1073979896826707968/image.png "Skull")
 
-`Browsers, Cookies, Histories, Credit Cards, Downloads Logging:` <br>
+> Browsers, Cookies, Histories, Credit Cards, Downloads Logging
 ![null](https://cdn.discordapp.com/attachments/1073970964817256479/1073978256103051294/Code_55GPViWhMg.png "Skull")
