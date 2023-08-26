@@ -7,10 +7,13 @@
 ## Logger Found
 
 > Network Logging
+
 ![null](https://cdn.discordapp.com/attachments/1073241823050465320/1073979588239179856/Code_4cOfyAlhXJ.png "Skull")
 
-> Discord token Logging <br>
+> Discord token Logging
+
 ![null](https://cdn.discordapp.com/attachments/1073241823050465320/1073979896826707968/image.png "Skull")
 
 > Browsers, Cookies, Histories, Credit Cards, Downloads Logging
+
 ![null](https://cdn.discordapp.com/attachments/1073970964817256479/1073978256103051294/Code_55GPViWhMg.png "Skull")
