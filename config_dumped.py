@@ -1,4 +1,4 @@
-# pyunpacker v1.0 (by Vault) #
+# pyunpacker v1.0 (by meng) #
 
 __CONFIG__ = {
     'systeminfo': True,
